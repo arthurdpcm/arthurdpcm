@@ -6,6 +6,6 @@
 
 
 ### About me
--> I'm a {frontend and backend} junior developer.<br>
--> 20 years old.<br>
--> Computer Science student.<br>
+<p><b>-> I'm a {frontend and backend} junior developer.</b></p>
+<p><b>-> 20 years old.</b></p>
+<p><b>-> Computer Science Student at CEFET-RJ.</b></p>
