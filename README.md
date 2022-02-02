@@ -8,4 +8,4 @@
 ### About me
 <p><b>-> I'm a {frontend and backend} junior developer.</b></p>
 <p><b>-> 20 years old.</b></p>
-<p><b>-> Computer Science Student at CEFET-RJ.</b></p>
+<p><b>-> Computer Science Student at CEFET-RJ (4/9).</b></p>
