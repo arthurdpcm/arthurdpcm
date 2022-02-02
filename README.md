@@ -6,4 +6,4 @@
 
 
 ### About me
-I'm a { frontend and backend} junior developer.
+I'm a {frontend and backend} junior developer.
