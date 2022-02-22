@@ -9,3 +9,8 @@
 <p><b>-> I'm a {frontend and backend} junior developer.</b></p>
 <p><b>-> 20 years old.</b></p>
 <p><b>-> Computer Science Student at CEFET-RJ (4/9).</b></p>
+
+[![Arthurdpcm's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurdpcm&theme=radical&show_icons=true&count_private=true)](https://github.com/arthurdpcm/github-readme-stats)
+</br>
+</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurdpcm&langs_count=8)](https://github.com/arthurdpcm/github-readme-stats)
