@@ -10,7 +10,8 @@
 <p><b>-> 20 years old.</b></p>
 <p><b>-> Computer Science Student at CEFET-RJ (In progress > 6/9).</b></p>
 
-[![Arthurdpcm's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurdpcm&theme=radical&show_icons=true&count_private=true)](https://github.com/arthurdpcm/github-readme-stats)
+[![Arthurdpcm's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurdpcm&count_private=truel&show_icons=true)](https://github.com/arthurdpcm/github-readme-stats)
 </br>
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurdpcm&langs_count=8)](https://github.com/arthurdpcm/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurdpcm)](https://github.com/arthurdpcm/github-readme-stats)
+
