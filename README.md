@@ -8,7 +8,8 @@
 ### About me
 <p><b>-> I'm a {frontend and backend} junior developer.</b></p>
 <p><b>-> 21 years old.</b></p>
-<p><b>-> Computer Science Student at CEFET-RJ (In progress > 6/9).</b></p>
+<p><b>-> Computer Science Student at CEFET-RJ.</b></p>
+<p><b>-> Exchange program at Aix-Marseille Université.</b></p>
 
 [![Arthurdpcm's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurdpcm&count_private=truel&show_icons=true)](https://github.com/arthurdpcm/github-readme-stats)
 </br>
