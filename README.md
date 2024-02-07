@@ -5,7 +5,7 @@
 
 ### About me
 <p><b>-> I'm a {frontend and backend} junior developer.</b></p>
-<p><b>-> 21 years old.</b></p>
+<p><b>-> 22 years old.</b></p>
 <p><b>-> Computer Science Student at CEFET-RJ.</b></p>
 <p><b>-> Exchange program at Aix-Marseille Université.</b></p>
 
