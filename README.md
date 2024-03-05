@@ -9,12 +9,12 @@
 <p><b>-> Computer Science Student at CEFET-RJ.</b></p>
 <p><b>-> Exchange program at Aix-Marseille Université.</b></p>
 
-[![Arthurdpcm's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurdpcm&count_private=truel&show_icons=true)](https://github.com/arthurdpcm/github-readme-stats)
+[![Arthurdpcm's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurdpcm&count_private=truel&show_icons=true&theme=radical)](https://github.com/arthurdpcm/github-readme-stats)
 </br>
 </br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurdpcm&hide=css&theme=radical)](https://github.com/arthurdpcm/github-readme-stats)
 <!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurdpcm)](https://github.com/arthurdpcm/github-readme-stats)
 
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurdpcm&hide=css)](https://github.com/arthurdpcm/github-readme-stats)
