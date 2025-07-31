@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthurdpcm/)](https://www.linkedin.com/in/arthurdpcm/)
 
 ### About me
-<p><b>-> I'm a fullstack junior developer.</b></p>
+<p><b>-> I'm a fullstack developer.</b></p>
 <p><b>-> 23 years old.</b></p>
 <p><b>-> Computer Science Student at CEFET-RJ.</b></p>
 <p><b>-> Exchange program at Aix-Marseille Université.</b></p>
